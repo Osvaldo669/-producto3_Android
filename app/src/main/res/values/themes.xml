@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Practica3" parent="@style/Theme.Leanback" />
+</resources>
